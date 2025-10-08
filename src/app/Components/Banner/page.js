@@ -72,7 +72,7 @@ export const Banner = () => {
           </p>
 
          <Link
-         href='/img/JanhaviBandhane.pdf'
+         href='/img/PrabhulalRaghwani.pdf'
          >
           <button
             className="btn btn-primary"
