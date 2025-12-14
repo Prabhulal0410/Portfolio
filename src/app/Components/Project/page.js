@@ -11,7 +11,7 @@ const Projects = () => {
   const projects = [
     {
       title: "NetflixGPT",
-      imgUrl: '/img/matecaps.png',
+      imgUrl: '/img/netflix.png',
       link: 'https://netfilx-gpt-project.vercel.app/',
     },
     {
