@@ -60,7 +60,7 @@ export const Banner = () => {
         {/* Text Content */}
         <div
           ref={ref}
-          className={`transition-opacity duration-1000 ${inView ? "opacity-100" : "opacity-0"} w-full md:w-2/3 mt-14 lg:mt-0`}
+          className={`transition-opacity duration-700 ${inView ? "opacity-100" : "opacity-0"} w-full md:w-2/3 mt-14 lg:mt-0`}
         >
           <p className="text-sm text-primary uppercase mb-2">Welcome to my Portfolio</p>
           <h1 className="text-3xl md:text-5xl font-bold mb-4 ">
