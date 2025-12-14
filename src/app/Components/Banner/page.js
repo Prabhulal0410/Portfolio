@@ -71,9 +71,7 @@ export const Banner = () => {
           I am a frontend developer currently interning in the ERP department, with 7 months of hands-on experience building responsive and dynamic web interfaces. I am learning Next.js to enhance my skills and create modern, high-performance web applications.
           </p>
 
-         <Link
-         href='/img/PrabhulalRaghwani.pdf'
-         >
+         <Link href='/img/PrabhulalRaghwani.pdf'>
           <button
             className="btn btn-primary"
             onClick={() => console.log("connect")}

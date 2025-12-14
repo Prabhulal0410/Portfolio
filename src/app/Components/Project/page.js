@@ -10,6 +10,11 @@ const Projects = () => {
 
   const projects = [
     {
+      title: "NetflixGPT",
+      imgUrl: '/img/matecaps.png',
+      link: 'https://netfilx-gpt-project.vercel.app/',
+    },
+    {
       title: "Matecaps",
       imgUrl: '/img/matecaps.png',
       link: 'https://prabhulalmatecapproject.netlify.app/home',
