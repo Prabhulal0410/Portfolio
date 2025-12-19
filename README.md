@@ -41,20 +41,3 @@ The project reflects my passion for web development and my ability to build clea
 
 ---
 
-## 📦 Getting Started
-
-Follow these steps to run the project locally on your machine.
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- **Node.js**
-- **npm**
-
-Check versions:
-
-```bash
-node -v
-npm -v
-
