@@ -39,5 +39,4 @@ The project reflects my passion for web development and my ability to build clea
 - ⚡ **Fast Performance** using Next.js  
 - 🎨 **Clean & Modern UI** for a great user experience  
 
----
 
