@@ -21,7 +21,7 @@ The project demonstrates my ability to build **scalable, performant, and user-fr
 
 - **Next.js** – High-performance React framework  
 - **React.js** – Component-based UI development  
-- **JavaScript (ES6+)** – Core programming language  
+- **JavaScript** – Core programming language  
 - **HTML5** – Semantic and accessible markup  
 - **CSS3** – Responsive layouts and modern styling  
 - **Netlify** – Continuous deployment and hosting  
